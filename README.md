@@ -9,7 +9,7 @@ Free code HTML CSS Javascript and Free learning web developer
 ## Image in project
 
 ![Alt text](project.png "Lun Dev") 
-- [Detailed instructions on this project](https://www.lundevweb.com/2023/01/tabs-slider-voi-html-css-va-javascript.html)
+- [Detailed video on this project](https://www.youtube.com/watch?v=Trf0borH7mw)
 
 
 ## Follow me for more free codes
